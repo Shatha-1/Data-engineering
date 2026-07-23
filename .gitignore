@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+data/landing/
+data/delta/
+quarantine_zone/
+lineage_events/
