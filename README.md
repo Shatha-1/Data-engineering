@@ -1,6 +1,6 @@
 # StreamForge — A Streaming Data Engineering Pipeline for AI Systems
 
-**Student:** Majdoleen
+**Student:** Waad Alsaif, Razan Almutairi, Dana Alsaidan, Layan Alameri, Shatha Bin Mana
 **Program:** [Program / course name]
 **Session dates:** [Insert dates]
 **Trainer:** [Insert trainer name]
