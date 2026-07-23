@@ -1,10 +1,9 @@
 # StreamForge — A Streaming Data Engineering Pipeline for AI Systems
 
-**Student:** Waad Alsaif, Razan Almutairi, Dana Alsaidan, Layan Alameri, Shatha Bin Mana
-**Program:** [Program / course name]
-**Session dates:** [Insert dates]
-**Trainer:** [Insert trainer name]
-
+**Student:** Waad Alsaif, Razan Almutairi, Dana Alsaidan, Layan Alameri, Shatha Bin Mana  
+**Program:** Data Engineering  
+**Session dates:** 19-7-2026 – 23-7-2026  
+**Trainer:** Mohammed Albalawi
 ---
 
 ## Project Overview
